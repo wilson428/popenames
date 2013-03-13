@@ -1,3 +1,4 @@
+#!/usr/bin/env python
 
 import re
 import json
@@ -48,6 +49,9 @@ for pope in roster:
     #456-75 -> 456-475
     if len(data["end"]) == 2:            
         data["end"] = data["start"][:-2] + data["end"]
+    data["start"] = int(data["start"])
+    data["end"] = int(data["end"])
+    
     popes.append(data)        
 write(json.dumps(popes, indent=2), "popes.json")
 print "found data for %i popes" % len(popes)
