@@ -2,6 +2,7 @@
   {
     "end": "67", 
     "name": "Peter", 
+    "nicknames": [], 
     "title": "St.", 
     "url": "http://www.newadvent.org/cathen/11744a.htm", 
     "number": "", 
@@ -11,6 +12,7 @@
   {
     "end": "76", 
     "name": "Linus", 
+    "nicknames": [], 
     "title": "St.", 
     "url": "http://www.newadvent.org/cathen/09272b.htm", 
     "number": "", 
@@ -19,7 +21,10 @@
   }, 
   {
     "end": "88", 
-    "name": "Anacletus (Cletus)", 
+    "name": "Anacletus", 
+    "nicknames": [
+      "Cletus"
+    ], 
     "title": "St.", 
     "url": "http://www.newadvent.org/cathen/01446a.htm", 
     "number": "", 
@@ -29,6 +34,7 @@
   {
     "end": "97", 
     "name": "Clement", 
+    "nicknames": [], 
     "title": "St.", 
     "url": "http://www.newadvent.org/cathen/04012c.htm", 
     "number": "I", 
@@ -38,6 +44,7 @@
   {
     "end": "105", 
     "name": "Evaristus", 
+    "nicknames": [], 
     "title": "St.", 
     "url": "http://www.newadvent.org/cathen/05646a.htm", 
     "number": "", 
@@ -47,6 +54,7 @@
   {
     "end": "115", 
     "name": "Alexander", 
+    "nicknames": [], 
     "title": "St.", 
     "url": "http://www.newadvent.org/cathen/01285c.htm", 
     "number": "I", 
@@ -56,6 +64,7 @@
   {
     "end": "125", 
     "name": "Sixtus", 
+    "nicknames": [], 
     "title": "St.", 
     "url": "http://www.newadvent.org/cathen/14031b.htm", 
     "number": "I", 
@@ -65,6 +74,7 @@
   {
     "end": "136", 
     "name": "Telesphorus", 
+    "nicknames": [], 
     "title": "St.", 
     "url": "http://www.newadvent.org/cathen/14477b.htm", 
     "number": "", 
@@ -74,6 +84,7 @@
   {
     "end": "140", 
     "name": "Hyginus", 
+    "nicknames": [], 
     "title": "St.", 
     "url": "http://www.newadvent.org/cathen/07593a.htm", 
     "number": "", 
@@ -83,6 +94,7 @@
   {
     "end": "155", 
     "name": "Pius", 
+    "nicknames": [], 
     "title": "St.", 
     "url": "http://www.newadvent.org/cathen/12126b.htm", 
     "number": "I", 
@@ -92,6 +104,7 @@
   {
     "end": "166", 
     "name": "Anicetus", 
+    "nicknames": [], 
     "title": "St.", 
     "url": "http://www.newadvent.org/cathen/01514a.htm", 
     "number": "", 
@@ -101,6 +114,7 @@
   {
     "end": "175", 
     "name": "Soter", 
+    "nicknames": [], 
     "title": "St.", 
     "url": "http://www.newadvent.org/cathen/03144c.htm", 
     "number": "", 
@@ -110,6 +124,7 @@
   {
     "end": "189", 
     "name": "Eleutherius", 
+    "nicknames": [], 
     "title": "St.", 
     "url": "http://www.newadvent.org/cathen/05378a.htm", 
     "number": "", 
@@ -119,6 +134,7 @@
   {
     "end": "199", 
     "name": "Victor", 
+    "nicknames": [], 
     "title": "St.", 
     "url": "http://www.newadvent.org/cathen/15408a.htm", 
     "number": "I", 
@@ -128,6 +144,7 @@
   {
     "end": "217", 
     "name": "Zephyrinus", 
+    "nicknames": [], 
     "title": "St.", 
     "url": "http://www.newadvent.org/cathen/15756c.htm", 
     "number": "", 
@@ -137,6 +154,7 @@
   {
     "end": "222", 
     "name": "Callistus", 
+    "nicknames": [], 
     "title": "St.", 
     "url": "http://www.newadvent.org/cathen/03183d.htm", 
     "number": "I", 
@@ -146,6 +164,7 @@
   {
     "end": "230", 
     "name": "Urban", 
+    "nicknames": [], 
     "title": "St.", 
     "url": "http://www.newadvent.org/cathen/15209a.htm", 
     "number": "I", 
@@ -155,6 +174,7 @@
   {
     "end": "235", 
     "name": "Pontain", 
+    "nicknames": [], 
     "title": "St.", 
     "url": "http://www.newadvent.org/cathen/12229b.htm", 
     "number": "", 
@@ -164,6 +184,7 @@
   {
     "end": "236", 
     "name": "Anterus", 
+    "nicknames": [], 
     "title": "St.", 
     "url": "http://www.newadvent.org/cathen/01553a.htm", 
     "number": "", 
@@ -173,6 +194,7 @@
   {
     "end": "250", 
     "name": "Fabian", 
+    "nicknames": [], 
     "title": "St.", 
     "url": "http://www.newadvent.org/cathen/05742d.htm", 
     "number": "", 
@@ -182,6 +204,7 @@
   {
     "end": "253", 
     "name": "Cornelius", 
+    "nicknames": [], 
     "title": "St.", 
     "url": "http://www.newadvent.org/cathen/04375c.htm", 
     "number": "", 
@@ -191,6 +214,7 @@
   {
     "end": "254", 
     "name": "Lucius", 
+    "nicknames": [], 
     "title": "St.", 
     "url": "http://www.newadvent.org/cathen/09411a.htm", 
     "number": "I", 
@@ -200,6 +224,7 @@
   {
     "end": "257", 
     "name": "Stephen", 
+    "nicknames": [], 
     "title": "St.", 
     "url": "http://www.newadvent.org/cathen/14288a.htm", 
     "number": "I", 
@@ -209,6 +234,7 @@
   {
     "end": "258", 
     "name": "Sixtus", 
+    "nicknames": [], 
     "title": "St.", 
     "url": "http://www.newadvent.org/cathen/14031c.htm", 
     "number": "II", 
@@ -218,6 +244,7 @@
   {
     "end": "268", 
     "name": "Dionysius", 
+    "nicknames": [], 
     "title": "St.", 
     "url": "http://www.newadvent.org/cathen/05009b.htm", 
     "number": "", 
@@ -227,6 +254,7 @@
   {
     "end": "274", 
     "name": "Felix", 
+    "nicknames": [], 
     "title": "St.", 
     "url": "http://www.newadvent.org/cathen/06029b.htm", 
     "number": "I", 
@@ -236,6 +264,7 @@
   {
     "end": "283", 
     "name": "Eutychian", 
+    "nicknames": [], 
     "title": "St.", 
     "url": "http://www.newadvent.org/cathen/05638a.htm", 
     "number": "", 
@@ -245,6 +274,7 @@
   {
     "end": "296", 
     "name": "Caius", 
+    "nicknames": [], 
     "title": "St.", 
     "url": "http://www.newadvent.org/cathen/03144c.htm", 
     "number": "", 
@@ -254,6 +284,7 @@
   {
     "end": "304", 
     "name": "Marcellinus", 
+    "nicknames": [], 
     "title": "St.", 
     "url": "http://www.newadvent.org/cathen/09637d.htm", 
     "number": "", 
@@ -263,6 +294,7 @@
   {
     "end": "309", 
     "name": "Marcellus", 
+    "nicknames": [], 
     "title": "St.", 
     "url": "http://www.newadvent.org/cathen/09640b.htm", 
     "number": "I", 
@@ -272,6 +304,7 @@
   {
     "end": "310", 
     "name": "Eusebius", 
+    "nicknames": [], 
     "title": "St.", 
     "url": "http://www.newadvent.org/cathen/05615b.htm", 
     "number": "", 
@@ -281,6 +314,7 @@
   {
     "end": "314", 
     "name": "Miltiades", 
+    "nicknames": [], 
     "title": "St.", 
     "url": "http://www.newadvent.org/cathen/10318a.htm", 
     "number": "", 
@@ -290,6 +324,7 @@
   {
     "end": "335", 
     "name": "Sylvester", 
+    "nicknames": [], 
     "title": "St.", 
     "url": "http://www.newadvent.org/cathen/14370a.htm", 
     "number": "I", 
@@ -299,6 +334,7 @@
   {
     "end": "336", 
     "name": "Marcus", 
+    "nicknames": [], 
     "title": "St.", 
     "url": "http://www.newadvent.org/cathen/09674a.htm", 
     "number": "", 
@@ -308,6 +344,7 @@
   {
     "end": "352", 
     "name": "Julius", 
+    "nicknames": [], 
     "title": "St.", 
     "url": "http://www.newadvent.org/cathen/08561a.htm", 
     "number": "I", 
@@ -317,6 +354,7 @@
   {
     "end": "366", 
     "name": "Liberius", 
+    "nicknames": [], 
     "title": "", 
     "url": "http://www.newadvent.org/cathen/09217a.htm", 
     "number": "", 
@@ -326,6 +364,7 @@
   {
     "end": "383", 
     "name": "Damasus", 
+    "nicknames": [], 
     "title": "St.", 
     "url": "http://www.newadvent.org/cathen/04613a.htm", 
     "number": "I", 
@@ -335,6 +374,7 @@
   {
     "end": "399", 
     "name": "Siricius", 
+    "nicknames": [], 
     "title": "St.", 
     "url": "http://www.newadvent.org/cathen/14026a.htm", 
     "number": "", 
@@ -344,6 +384,7 @@
   {
     "end": "401", 
     "name": "Anastasius", 
+    "nicknames": [], 
     "title": "St.", 
     "url": "http://www.newadvent.org/cathen/01454c.htm", 
     "number": "I", 
@@ -353,6 +394,7 @@
   {
     "end": "417", 
     "name": "Innocent", 
+    "nicknames": [], 
     "title": "St.", 
     "url": "http://www.newadvent.org/cathen/08011a.htm", 
     "number": "I", 
@@ -362,6 +404,7 @@
   {
     "end": "418", 
     "name": "Zosimus", 
+    "nicknames": [], 
     "title": "St.", 
     "url": "http://www.newadvent.org/cathen/15764c.htm", 
     "number": "", 
@@ -371,6 +414,7 @@
   {
     "end": "422", 
     "name": "Boniface", 
+    "nicknames": [], 
     "title": "St.", 
     "url": "http://www.newadvent.org/cathen/02658a.htm", 
     "number": "I", 
@@ -380,6 +424,7 @@
   {
     "end": "432", 
     "name": "Celestine", 
+    "nicknames": [], 
     "title": "St.", 
     "url": "http://www.newadvent.org/cathen/03477c.htm", 
     "number": "I", 
@@ -389,6 +434,7 @@
   {
     "end": "440", 
     "name": "Sixtus", 
+    "nicknames": [], 
     "title": "St.", 
     "url": "http://www.newadvent.org/cathen/14032a.htm", 
     "number": "III", 
@@ -397,16 +443,20 @@
   }, 
   {
     "end": "461", 
-    "name": "Leo I (the Great)", 
+    "name": "Leo", 
+    "nicknames": [
+      "the Great"
+    ], 
     "title": "St.", 
     "url": "http://www.newadvent.org/cathen/09154b.htm", 
-    "number": "", 
+    "number": "I", 
     "start": "440", 
     "fullname": "St. Leo I (the Great)"
   }, 
   {
     "end": "468", 
     "name": "Hilarius", 
+    "nicknames": [], 
     "title": "St.", 
     "url": "http://www.newadvent.org/cathen/07348b.htm", 
     "number": "", 
@@ -416,6 +466,7 @@
   {
     "end": "483", 
     "name": "Simplicius", 
+    "nicknames": [], 
     "title": "St.", 
     "url": "http://www.newadvent.org/cathen/14002a.htm", 
     "number": "", 
@@ -424,16 +475,20 @@
   }, 
   {
     "end": "492", 
-    "name": "Felix III (II)", 
+    "name": "Felix", 
+    "nicknames": [
+      "II"
+    ], 
     "title": "St.", 
     "url": "http://www.newadvent.org/cathen/06030b.htm", 
-    "number": "", 
+    "number": "III", 
     "start": "483", 
     "fullname": "St. Felix III (II)"
   }, 
   {
     "end": "496", 
     "name": "Gelasius", 
+    "nicknames": [], 
     "title": "St.", 
     "url": "http://www.newadvent.org/cathen/06406a.htm", 
     "number": "I", 
@@ -443,6 +498,7 @@
   {
     "end": "498", 
     "name": "Anastasius", 
+    "nicknames": [], 
     "title": "", 
     "url": "http://www.newadvent.org/cathen/01454d.htm", 
     "number": "II", 
@@ -452,6 +508,7 @@
   {
     "end": "514", 
     "name": "Symmachus", 
+    "nicknames": [], 
     "title": "St.", 
     "url": "http://www.newadvent.org/cathen/14377a.htm", 
     "number": "", 
@@ -461,6 +518,7 @@
   {
     "end": "523", 
     "name": "Hormisdas", 
+    "nicknames": [], 
     "title": "St.", 
     "url": "http://www.newadvent.org/cathen/07470a.htm", 
     "number": "", 
@@ -470,6 +528,7 @@
   {
     "end": "526", 
     "name": "John", 
+    "nicknames": [], 
     "title": "St.", 
     "url": "http://www.newadvent.org/cathen/08421a.htm", 
     "number": "I", 
@@ -478,16 +537,20 @@
   }, 
   {
     "end": "530", 
-    "name": "Felix IV (III)", 
+    "name": "Felix", 
+    "nicknames": [
+      "III"
+    ], 
     "title": "St.", 
     "url": "http://www.newadvent.org/cathen/06031a.htm", 
-    "number": "", 
+    "number": "IV", 
     "start": "526", 
     "fullname": "St. Felix IV (III)"
   }, 
   {
     "end": "532", 
     "name": "Boniface", 
+    "nicknames": [], 
     "title": "", 
     "url": "http://www.newadvent.org/cathen/02660a.htm", 
     "number": "II", 
@@ -497,6 +560,7 @@
   {
     "end": "535", 
     "name": "John", 
+    "nicknames": [], 
     "title": "", 
     "url": "http://www.newadvent.org/cathen/08421b.htm", 
     "number": "II", 
@@ -506,6 +570,7 @@
   {
     "end": "536", 
     "name": "Agapetus", 
+    "nicknames": [], 
     "title": "St.", 
     "url": "http://www.newadvent.org/cathen/01202c.htm", 
     "number": "I", 
@@ -515,6 +580,7 @@
   {
     "end": "537", 
     "name": "Silverius", 
+    "nicknames": [], 
     "title": "St.", 
     "url": "http://www.newadvent.org/cathen/13793a.htm", 
     "number": "", 
@@ -524,6 +590,7 @@
   {
     "end": "555", 
     "name": "Vigilius", 
+    "nicknames": [], 
     "title": "", 
     "url": "http://www.newadvent.org/cathen/15427b.htm", 
     "number": "", 
@@ -533,6 +600,7 @@
   {
     "end": "561", 
     "name": "Pelagius", 
+    "nicknames": [], 
     "title": "", 
     "url": "http://www.newadvent.org/cathen/11602a.htm", 
     "number": "I", 
@@ -542,6 +610,7 @@
   {
     "end": "574", 
     "name": "John", 
+    "nicknames": [], 
     "title": "", 
     "url": "http://www.newadvent.org/cathen/08422a.htm", 
     "number": "III", 
@@ -551,6 +620,7 @@
   {
     "end": "579", 
     "name": "Benedict", 
+    "nicknames": [], 
     "title": "", 
     "url": "http://www.newadvent.org/cathen/02427c.htm", 
     "number": "I", 
@@ -560,6 +630,7 @@
   {
     "end": "590", 
     "name": "Pelagius", 
+    "nicknames": [], 
     "title": "", 
     "url": "http://www.newadvent.org/cathen/11603a.htm", 
     "number": "II", 
@@ -568,16 +639,20 @@
   }, 
   {
     "end": "604", 
-    "name": "Gregory I (the Great)", 
+    "name": "Gregory", 
+    "nicknames": [
+      "the Great"
+    ], 
     "title": "St.", 
     "url": "http://www.newadvent.org/cathen/06780a.htm", 
-    "number": "", 
+    "number": "I", 
     "start": "590", 
     "fullname": "St. Gregory I (the Great)"
   }, 
   {
     "end": "606", 
     "name": "Sabinian", 
+    "nicknames": [], 
     "title": "", 
     "url": "http://www.newadvent.org/cathen/13291a.htm", 
     "number": "", 
@@ -587,6 +662,7 @@
   {
     "end": "607", 
     "name": "Boniface", 
+    "nicknames": [], 
     "title": "", 
     "url": "http://www.newadvent.org/cathen/02660b.htm", 
     "number": "III", 
@@ -596,6 +672,7 @@
   {
     "end": "615", 
     "name": "Boniface", 
+    "nicknames": [], 
     "title": "St.", 
     "url": "http://www.newadvent.org/cathen/02660c.htm", 
     "number": "IV", 
@@ -604,7 +681,10 @@
   }, 
   {
     "end": "618", 
-    "name": "Deusdedit (Adeodatus I)", 
+    "name": "Deusdedit", 
+    "nicknames": [
+      "Adeodatus I"
+    ], 
     "title": "St.", 
     "url": "http://www.newadvent.org/cathen/04760a.htm", 
     "number": "", 
@@ -614,6 +694,7 @@
   {
     "end": "625", 
     "name": "Boniface", 
+    "nicknames": [], 
     "title": "", 
     "url": "http://www.newadvent.org/cathen/02661a.htm", 
     "number": "V", 
@@ -623,6 +704,7 @@
   {
     "end": "638", 
     "name": "Honorius", 
+    "nicknames": [], 
     "title": "", 
     "url": "http://www.newadvent.org/cathen/07452b.htm", 
     "number": "I", 
@@ -632,6 +714,7 @@
   {
     "end": "640", 
     "name": "Severinus", 
+    "nicknames": [], 
     "title": "", 
     "url": "http://www.newadvent.org/cathen/13742c.htm", 
     "number": "", 
@@ -641,6 +724,7 @@
   {
     "end": "642", 
     "name": "John", 
+    "nicknames": [], 
     "title": "", 
     "url": "http://www.newadvent.org/cathen/08422b.htm", 
     "number": "IV", 
@@ -650,6 +734,7 @@
   {
     "end": "649", 
     "name": "Theodore", 
+    "nicknames": [], 
     "title": "", 
     "url": "http://www.newadvent.org/cathen/14570a.htm", 
     "number": "I", 
@@ -659,6 +744,7 @@
   {
     "end": "655", 
     "name": "Martin", 
+    "nicknames": [], 
     "title": "St.", 
     "url": "http://www.newadvent.org/cathen/09723c.htm", 
     "number": "I", 
@@ -668,6 +754,7 @@
   {
     "end": "657", 
     "name": "Eugene", 
+    "nicknames": [], 
     "title": "St.", 
     "url": "http://www.newadvent.org/cathen/05598a.htm", 
     "number": "I", 
@@ -677,6 +764,7 @@
   {
     "end": "672", 
     "name": "Vitalian", 
+    "nicknames": [], 
     "title": "St.", 
     "url": "http://www.newadvent.org/cathen/15484b.htm", 
     "number": "", 
@@ -685,7 +773,10 @@
   }, 
   {
     "end": "676", 
-    "name": "Adeodatus (II)", 
+    "name": "Adeodatus", 
+    "nicknames": [
+      "II"
+    ], 
     "title": "", 
     "url": "http://www.newadvent.org/cathen/01142a.htm", 
     "number": "", 
@@ -695,6 +786,7 @@
   {
     "end": "678", 
     "name": "Donus", 
+    "nicknames": [], 
     "title": "", 
     "url": "http://www.newadvent.org/cathen/05133a.htm", 
     "number": "", 
@@ -704,6 +796,7 @@
   {
     "end": "681", 
     "name": "Agatho", 
+    "nicknames": [], 
     "title": "St.", 
     "url": "http://www.newadvent.org/cathen/01204c.htm", 
     "number": "", 
@@ -713,6 +806,7 @@
   {
     "end": "683", 
     "name": "Leo", 
+    "nicknames": [], 
     "title": "St.", 
     "url": "http://www.newadvent.org/cathen/09157a.htm", 
     "number": "II", 
@@ -722,6 +816,7 @@
   {
     "end": "685", 
     "name": "Benedict", 
+    "nicknames": [], 
     "title": "St.", 
     "url": "http://www.newadvent.org/cathen/02427d.htm", 
     "number": "II", 
@@ -731,6 +826,7 @@
   {
     "end": "686", 
     "name": "John", 
+    "nicknames": [], 
     "title": "", 
     "url": "http://www.newadvent.org/cathen/08422c.htm", 
     "number": "V", 
@@ -740,6 +836,7 @@
   {
     "end": "687", 
     "name": "Conon", 
+    "nicknames": [], 
     "title": "", 
     "url": "http://www.newadvent.org/cathen/04258a.htm", 
     "number": "", 
@@ -749,6 +846,7 @@
   {
     "end": "701", 
     "name": "Sergius", 
+    "nicknames": [], 
     "title": "St.", 
     "url": "http://www.newadvent.org/cathen/13728b.htm", 
     "number": "I", 
@@ -758,6 +856,7 @@
   {
     "end": "705", 
     "name": "John", 
+    "nicknames": [], 
     "title": "", 
     "url": "http://www.newadvent.org/cathen/08423a.htm", 
     "number": "VI", 
@@ -767,6 +866,7 @@
   {
     "end": "707", 
     "name": "John", 
+    "nicknames": [], 
     "title": "", 
     "url": "http://www.newadvent.org/cathen/08423b.htm", 
     "number": "VII", 
@@ -776,6 +876,7 @@
   {
     "end": "708", 
     "name": "Sisinnius", 
+    "nicknames": [], 
     "title": "", 
     "url": "http://www.newadvent.org/cathen/14028a.htm", 
     "number": "", 
@@ -785,6 +886,7 @@
   {
     "end": "715", 
     "name": "Constantine", 
+    "nicknames": [], 
     "title": "", 
     "url": "http://www.newadvent.org/cathen/04294b.htm", 
     "number": "", 
@@ -794,6 +896,7 @@
   {
     "end": "731", 
     "name": "Gregory", 
+    "nicknames": [], 
     "title": "St.", 
     "url": "http://www.newadvent.org/cathen/06787a.htm", 
     "number": "II", 
@@ -803,6 +906,7 @@
   {
     "end": "741", 
     "name": "Gregory", 
+    "nicknames": [], 
     "title": "St.", 
     "url": "http://www.newadvent.org/cathen/06789a.htm", 
     "number": "III", 
@@ -812,6 +916,7 @@
   {
     "end": "752", 
     "name": "Zachary", 
+    "nicknames": [], 
     "title": "St.", 
     "url": "http://www.newadvent.org/cathen/15743b.htm", 
     "number": "", 
@@ -821,6 +926,7 @@
   {
     "end": "752", 
     "name": "Stephen", 
+    "nicknames": [], 
     "title": "", 
     "url": "http://www.newadvent.org/cathen/14288b.htm", 
     "number": "II", 
@@ -830,6 +936,7 @@
   {
     "end": "757", 
     "name": "Stephen", 
+    "nicknames": [], 
     "title": "", 
     "url": "http://www.newadvent.org/cathen/14288c.htm", 
     "number": "III", 
@@ -839,6 +946,7 @@
   {
     "end": "767", 
     "name": "Paul", 
+    "nicknames": [], 
     "title": "St.", 
     "url": "http://www.newadvent.org/cathen/11577a.htm", 
     "number": "I", 
@@ -848,6 +956,7 @@
   {
     "end": "772", 
     "name": "Stephen", 
+    "nicknames": [], 
     "title": "", 
     "url": "http://www.newadvent.org/cathen/14289a.htm", 
     "number": "IV", 
@@ -857,6 +966,7 @@
   {
     "end": "795", 
     "name": "Adrian", 
+    "nicknames": [], 
     "title": "", 
     "url": "http://www.newadvent.org/cathen/01155b.htm", 
     "number": "I", 
@@ -866,6 +976,7 @@
   {
     "end": "816", 
     "name": "Leo", 
+    "nicknames": [], 
     "title": "St.", 
     "url": "http://www.newadvent.org/cathen/09157b.htm", 
     "number": "III", 
@@ -875,6 +986,7 @@
   {
     "end": "817", 
     "name": "Stephen", 
+    "nicknames": [], 
     "title": "", 
     "url": "http://www.newadvent.org/cathen/14289b.htm", 
     "number": "V", 
@@ -884,6 +996,7 @@
   {
     "end": "824", 
     "name": "Paschal", 
+    "nicknames": [], 
     "title": "St.", 
     "url": "http://www.newadvent.org/cathen/11514a.htm", 
     "number": "I", 
@@ -893,6 +1006,7 @@
   {
     "end": "827", 
     "name": "Eugene", 
+    "nicknames": [], 
     "title": "", 
     "url": "http://www.newadvent.org/cathen/05598b.htm", 
     "number": "II", 
@@ -902,6 +1016,7 @@
   {
     "end": "827", 
     "name": "Valentine", 
+    "nicknames": [], 
     "title": "", 
     "url": "http://www.newadvent.org/cathen/15254b.htm", 
     "number": "", 
@@ -911,6 +1026,7 @@
   {
     "end": "844", 
     "name": "Gregory", 
+    "nicknames": [], 
     "title": "", 
     "url": "http://www.newadvent.org/cathen/06789b.htm", 
     "number": "IV", 
@@ -920,6 +1036,7 @@
   {
     "end": "847", 
     "name": "Sergius", 
+    "nicknames": [], 
     "title": "", 
     "url": "http://www.newadvent.org/cathen/13728c.htm", 
     "number": "II", 
@@ -929,6 +1046,7 @@
   {
     "end": "855", 
     "name": "Leo", 
+    "nicknames": [], 
     "title": "St.", 
     "url": "http://www.newadvent.org/cathen/09159a.htm", 
     "number": "IV", 
@@ -938,6 +1056,7 @@
   {
     "end": "858", 
     "name": "Benedict", 
+    "nicknames": [], 
     "title": "", 
     "url": "http://www.newadvent.org/cathen/02427e.htm", 
     "number": "III", 
@@ -946,16 +1065,20 @@
   }, 
   {
     "end": "867", 
-    "name": "Nicholas I (the Great)", 
+    "name": "Nicholas", 
+    "nicknames": [
+      "the Great"
+    ], 
     "title": "St.", 
     "url": "http://www.newadvent.org/cathen/11054a.htm", 
-    "number": "", 
+    "number": "I", 
     "start": "858", 
     "fullname": "St. Nicholas I (the Great)"
   }, 
   {
     "end": "872", 
     "name": "Adrian", 
+    "nicknames": [], 
     "title": "", 
     "url": "http://www.newadvent.org/cathen/01156a.htm", 
     "number": "II", 
@@ -965,6 +1088,7 @@
   {
     "end": "882", 
     "name": "John", 
+    "nicknames": [], 
     "title": "", 
     "url": "http://www.newadvent.org/cathen/08423c.htm", 
     "number": "VIII", 
@@ -974,6 +1098,7 @@
   {
     "end": "884", 
     "name": "Marinus", 
+    "nicknames": [], 
     "title": "", 
     "url": "http://www.newadvent.org/cathen/09670b.htm", 
     "number": "I", 
@@ -983,6 +1108,7 @@
   {
     "end": "885", 
     "name": "Adrian", 
+    "nicknames": [], 
     "title": "St.", 
     "url": "http://www.newadvent.org/cathen/01156b.htm", 
     "number": "III", 
@@ -992,6 +1118,7 @@
   {
     "end": "891", 
     "name": "Stephen", 
+    "nicknames": [], 
     "title": "", 
     "url": "http://www.newadvent.org/cathen/14289c.htm", 
     "number": "VI", 
@@ -1001,6 +1128,7 @@
   {
     "end": "896", 
     "name": "Formosus", 
+    "nicknames": [], 
     "title": "", 
     "url": "http://www.newadvent.org/cathen/06139b.htm", 
     "number": "", 
@@ -1010,6 +1138,7 @@
   {
     "end": "896", 
     "name": "Boniface", 
+    "nicknames": [], 
     "title": "", 
     "url": "http://www.newadvent.org/cathen/02661b.htm", 
     "number": "VI", 
@@ -1019,6 +1148,7 @@
   {
     "end": "897", 
     "name": "Stephen", 
+    "nicknames": [], 
     "title": "", 
     "url": "http://www.newadvent.org/cathen/14289d.htm", 
     "number": "VII", 
@@ -1028,6 +1158,7 @@
   {
     "end": "897", 
     "name": "Romanus", 
+    "nicknames": [], 
     "title": "", 
     "url": "http://www.newadvent.org/cathen/13163b.htm", 
     "number": "", 
@@ -1037,6 +1168,7 @@
   {
     "end": "897", 
     "name": "Theodore", 
+    "nicknames": [], 
     "title": "", 
     "url": "http://www.newadvent.org/cathen/14570b.htm", 
     "number": "II", 
@@ -1046,6 +1178,7 @@
   {
     "end": "900", 
     "name": "John", 
+    "nicknames": [], 
     "title": "", 
     "url": "http://www.newadvent.org/cathen/08425a.htm", 
     "number": "IX", 
@@ -1055,6 +1188,7 @@
   {
     "end": "903", 
     "name": "Benedict", 
+    "nicknames": [], 
     "title": "", 
     "url": "http://www.newadvent.org/cathen/02428a.htm", 
     "number": "IV", 
@@ -1064,6 +1198,7 @@
   {
     "end": "903", 
     "name": "Leo", 
+    "nicknames": [], 
     "title": "", 
     "url": "http://www.newadvent.org/cathen/09159b.htm", 
     "number": "V", 
@@ -1073,6 +1208,7 @@
   {
     "end": "911", 
     "name": "Sergius", 
+    "nicknames": [], 
     "title": "", 
     "url": "http://www.newadvent.org/cathen/13729a.htm", 
     "number": "III", 
@@ -1082,6 +1218,7 @@
   {
     "end": "913", 
     "name": "Anastasius", 
+    "nicknames": [], 
     "title": "", 
     "url": "http://www.newadvent.org/cathen/01455a.htm", 
     "number": "III", 
@@ -1091,6 +1228,7 @@
   {
     "end": "914", 
     "name": "Lando", 
+    "nicknames": [], 
     "title": "", 
     "url": "http://www.newadvent.org/cathen/08784a.htm", 
     "number": "", 
@@ -1100,6 +1238,7 @@
   {
     "end": "928", 
     "name": "John", 
+    "nicknames": [], 
     "title": "", 
     "url": "http://www.newadvent.org/cathen/08425b.htm", 
     "number": "X", 
@@ -1109,6 +1248,7 @@
   {
     "end": "928", 
     "name": "Leo", 
+    "nicknames": [], 
     "title": "", 
     "url": "http://www.newadvent.org/cathen/09159c.htm", 
     "number": "VI", 
@@ -1118,6 +1258,7 @@
   {
     "end": "931", 
     "name": "Stephen", 
+    "nicknames": [], 
     "title": "", 
     "url": "http://www.newadvent.org/cathen/14290a.htm", 
     "number": "VIII", 
@@ -1127,6 +1268,7 @@
   {
     "end": "935", 
     "name": "John", 
+    "nicknames": [], 
     "title": "", 
     "url": "http://www.newadvent.org/cathen/08426a.htm", 
     "number": "XI", 
@@ -1136,6 +1278,7 @@
   {
     "end": "939", 
     "name": "Leo", 
+    "nicknames": [], 
     "title": "", 
     "url": "http://www.newadvent.org/cathen/09160a.htm", 
     "number": "VII", 
@@ -1145,6 +1288,7 @@
   {
     "end": "942", 
     "name": "Stephen", 
+    "nicknames": [], 
     "title": "", 
     "url": "http://www.newadvent.org/cathen/14290b.htm", 
     "number": "IX", 
@@ -1154,6 +1298,7 @@
   {
     "end": "946", 
     "name": "Marinus", 
+    "nicknames": [], 
     "title": "", 
     "url": "http://www.newadvent.org/cathen/09670c.htm", 
     "number": "II", 
@@ -1163,6 +1308,7 @@
   {
     "end": "955", 
     "name": "Agapetus", 
+    "nicknames": [], 
     "title": "", 
     "url": "http://www.newadvent.org/cathen/01203a.htm", 
     "number": "II", 
@@ -1172,6 +1318,7 @@
   {
     "end": "963", 
     "name": "John", 
+    "nicknames": [], 
     "title": "", 
     "url": "http://www.newadvent.org/cathen/08426b.htm", 
     "number": "XII", 
@@ -1181,6 +1328,7 @@
   {
     "end": "964", 
     "name": "Leo", 
+    "nicknames": [], 
     "title": "", 
     "url": "http://www.newadvent.org/cathen/09160b.htm", 
     "number": "VIII", 
@@ -1190,6 +1338,7 @@
   {
     "end": "964", 
     "name": "Benedict", 
+    "nicknames": [], 
     "title": "", 
     "url": "http://www.newadvent.org/cathen/02428b.htm", 
     "number": "V", 
@@ -1199,6 +1348,7 @@
   {
     "end": "972", 
     "name": "John", 
+    "nicknames": [], 
     "title": "", 
     "url": "http://www.newadvent.org/cathen/08427a.htm", 
     "number": "XIII", 
@@ -1208,6 +1358,7 @@
   {
     "end": "974", 
     "name": "Benedict", 
+    "nicknames": [], 
     "title": "", 
     "url": "http://www.newadvent.org/cathen/02428c.htm", 
     "number": "VI", 
@@ -1217,6 +1368,7 @@
   {
     "end": "983", 
     "name": "Benedict", 
+    "nicknames": [], 
     "title": "", 
     "url": "http://www.newadvent.org/cathen/02428d.htm", 
     "number": "VII", 
@@ -1226,6 +1378,7 @@
   {
     "end": "984", 
     "name": "John", 
+    "nicknames": [], 
     "title": "", 
     "url": "http://www.newadvent.org/cathen/08427b.htm", 
     "number": "XIV", 
@@ -1235,6 +1388,7 @@
   {
     "end": "996", 
     "name": "John", 
+    "nicknames": [], 
     "title": "", 
     "url": "http://www.newadvent.org/cathen/08427c.htm", 
     "number": "XV", 
@@ -1244,6 +1398,7 @@
   {
     "end": "999", 
     "name": "Gregory", 
+    "nicknames": [], 
     "title": "", 
     "url": "http://www.newadvent.org/cathen/06790a.htm", 
     "number": "V", 
@@ -1253,6 +1408,7 @@
   {
     "end": "1003", 
     "name": "Sylvester", 
+    "nicknames": [], 
     "title": "", 
     "url": "http://www.newadvent.org/cathen/14371a.htm", 
     "number": "II", 
@@ -1262,6 +1418,7 @@
   {
     "end": "1003", 
     "name": "John", 
+    "nicknames": [], 
     "title": "", 
     "url": "http://www.newadvent.org/cathen/08428b.htm", 
     "number": "XVII", 
@@ -1271,6 +1428,7 @@
   {
     "end": "1009", 
     "name": "John", 
+    "nicknames": [], 
     "title": "", 
     "url": "http://www.newadvent.org/cathen/08429a.htm", 
     "number": "XVIII", 
@@ -1280,6 +1438,7 @@
   {
     "end": "1012", 
     "name": "Sergius", 
+    "nicknames": [], 
     "title": "", 
     "url": "http://www.newadvent.org/cathen/13729b.htm", 
     "number": "IV", 
@@ -1289,6 +1448,7 @@
   {
     "end": "1024", 
     "name": "Benedict", 
+    "nicknames": [], 
     "title": "", 
     "url": "http://www.newadvent.org/cathen/02428e.htm", 
     "number": "VIII", 
@@ -1298,6 +1458,7 @@
   {
     "end": "1032", 
     "name": "John", 
+    "nicknames": [], 
     "title": "", 
     "url": "http://www.newadvent.org/cathen/08429b.htm", 
     "number": "XIX", 
@@ -1307,6 +1468,7 @@
   {
     "end": "1045", 
     "name": "Benedict", 
+    "nicknames": [], 
     "title": "", 
     "url": "http://www.newadvent.org/cathen/02429a.htm", 
     "number": "IX", 
@@ -1316,6 +1478,7 @@
   {
     "end": "1045", 
     "name": "Sylvester", 
+    "nicknames": [], 
     "title": "", 
     "url": null, 
     "number": "III", 
@@ -1325,6 +1488,7 @@
   {
     "end": "1045", 
     "name": "Benedict", 
+    "nicknames": [], 
     "title": "", 
     "url": "http://www.newadvent.org/cathen/02429a.htm", 
     "number": "IX", 
@@ -1334,6 +1498,7 @@
   {
     "end": "1046", 
     "name": "Gregory", 
+    "nicknames": [], 
     "title": "", 
     "url": "http://www.newadvent.org/cathen/06791a.htm", 
     "number": "VI", 
@@ -1343,6 +1508,7 @@
   {
     "end": "1047", 
     "name": "Clement", 
+    "nicknames": [], 
     "title": "", 
     "url": "http://www.newadvent.org/cathen/04017a.htm", 
     "number": "II", 
@@ -1352,6 +1518,7 @@
   {
     "end": "1048", 
     "name": "Benedict", 
+    "nicknames": [], 
     "title": "", 
     "url": "http://www.newadvent.org/cathen/02429a.htm", 
     "number": "IX", 
@@ -1361,6 +1528,7 @@
   {
     "end": "1048", 
     "name": "Damasus", 
+    "nicknames": [], 
     "title": "", 
     "url": "http://www.newadvent.org/cathen/04614a.htm", 
     "number": "II", 
@@ -1370,6 +1538,7 @@
   {
     "end": "1054", 
     "name": "Leo", 
+    "nicknames": [], 
     "title": "St.", 
     "url": "http://www.newadvent.org/cathen/09160c.htm", 
     "number": "IX", 
@@ -1379,6 +1548,7 @@
   {
     "end": "1057", 
     "name": "Victor", 
+    "nicknames": [], 
     "title": "", 
     "url": "http://www.newadvent.org/cathen/15409a.htm", 
     "number": "II", 
@@ -1388,6 +1558,7 @@
   {
     "end": "1058", 
     "name": "Stephen", 
+    "nicknames": [], 
     "title": "", 
     "url": "http://www.newadvent.org/cathen/14290c.htm", 
     "number": "X", 
@@ -1397,6 +1568,7 @@
   {
     "end": "1061", 
     "name": "Nicholas", 
+    "nicknames": [], 
     "title": "", 
     "url": "http://www.newadvent.org/cathen/11055a.htm", 
     "number": "II", 
@@ -1406,6 +1578,7 @@
   {
     "end": "1073", 
     "name": "Alexander", 
+    "nicknames": [], 
     "title": "", 
     "url": "http://www.newadvent.org/cathen/01286a.htm", 
     "number": "II", 
@@ -1415,6 +1588,7 @@
   {
     "end": "1085", 
     "name": "Gregory", 
+    "nicknames": [], 
     "title": "St.", 
     "url": "http://www.newadvent.org/cathen/06791c.htm", 
     "number": "VII", 
@@ -1424,6 +1598,7 @@
   {
     "end": "1087", 
     "name": "Victor", 
+    "nicknames": [], 
     "title": "Blessed", 
     "url": "http://www.newadvent.org/cathen/15410a.htm", 
     "number": "III", 
@@ -1433,6 +1608,7 @@
   {
     "end": "1099", 
     "name": "Urban", 
+    "nicknames": [], 
     "title": "Blessed", 
     "url": "http://www.newadvent.org/cathen/15210a.htm", 
     "number": "II", 
@@ -1442,6 +1618,7 @@
   {
     "end": "1118", 
     "name": "Paschal", 
+    "nicknames": [], 
     "title": "", 
     "url": "http://www.newadvent.org/cathen/11514b.htm", 
     "number": "II", 
@@ -1451,6 +1628,7 @@
   {
     "end": "1119", 
     "name": "Gelasius", 
+    "nicknames": [], 
     "title": "", 
     "url": "http://www.newadvent.org/cathen/06407a.htm", 
     "number": "II", 
@@ -1460,6 +1638,7 @@
   {
     "end": "1124", 
     "name": "Callistus", 
+    "nicknames": [], 
     "title": "", 
     "url": "http://www.newadvent.org/cathen/03185a.htm", 
     "number": "II", 
@@ -1469,6 +1648,7 @@
   {
     "end": "1130", 
     "name": "Honorius", 
+    "nicknames": [], 
     "title": "", 
     "url": "http://www.newadvent.org/cathen/07456a.htm", 
     "number": "II", 
@@ -1478,6 +1658,7 @@
   {
     "end": "1143", 
     "name": "Innocent", 
+    "nicknames": [], 
     "title": "", 
     "url": "http://www.newadvent.org/cathen/08012a.htm", 
     "number": "II", 
@@ -1487,6 +1668,7 @@
   {
     "end": "1144", 
     "name": "Celestine", 
+    "nicknames": [], 
     "title": "", 
     "url": "http://www.newadvent.org/cathen/03478a.htm", 
     "number": "II", 
@@ -1496,6 +1678,7 @@
   {
     "end": "1145", 
     "name": "Lucius", 
+    "nicknames": [], 
     "title": "", 
     "url": "http://www.newadvent.org/cathen/09412a.htm", 
     "number": "II", 
@@ -1505,6 +1688,7 @@
   {
     "end": "1153", 
     "name": "Eugene", 
+    "nicknames": [], 
     "title": "Blessed", 
     "url": "http://www.newadvent.org/cathen/05599a.htm", 
     "number": "III", 
@@ -1514,6 +1698,7 @@
   {
     "end": "1154", 
     "name": "Anastasius", 
+    "nicknames": [], 
     "title": "", 
     "url": "http://www.newadvent.org/cathen/01455b.htm", 
     "number": "IV", 
@@ -1523,6 +1708,7 @@
   {
     "end": "1159", 
     "name": "Adrian", 
+    "nicknames": [], 
     "title": "", 
     "url": "http://www.newadvent.org/cathen/01156c.htm", 
     "number": "IV", 
@@ -1532,6 +1718,7 @@
   {
     "end": "1181", 
     "name": "Alexander", 
+    "nicknames": [], 
     "title": "", 
     "url": "http://www.newadvent.org/cathen/01287a.htm", 
     "number": "III", 
@@ -1541,6 +1728,7 @@
   {
     "end": "1185", 
     "name": "Lucius", 
+    "nicknames": [], 
     "title": "", 
     "url": "http://www.newadvent.org/cathen/09412b.htm", 
     "number": "III", 
@@ -1550,6 +1738,7 @@
   {
     "end": "1187", 
     "name": "Urban", 
+    "nicknames": [], 
     "title": "", 
     "url": "http://www.newadvent.org/cathen/15211a.htm", 
     "number": "III", 
@@ -1559,6 +1748,7 @@
   {
     "end": "1187", 
     "name": "Gregory", 
+    "nicknames": [], 
     "title": "", 
     "url": "http://www.newadvent.org/cathen/06795a.htm", 
     "number": "VIII", 
@@ -1568,6 +1758,7 @@
   {
     "end": "1191", 
     "name": "Clement", 
+    "nicknames": [], 
     "title": "", 
     "url": "http://www.newadvent.org/cathen/04018a.htm", 
     "number": "III", 
@@ -1577,6 +1768,7 @@
   {
     "end": "1198", 
     "name": "Celestine", 
+    "nicknames": [], 
     "title": "", 
     "url": "http://www.newadvent.org/cathen/03478b.htm", 
     "number": "III", 
@@ -1586,6 +1778,7 @@
   {
     "end": "1216", 
     "name": "Innocent", 
+    "nicknames": [], 
     "title": "", 
     "url": "http://www.newadvent.org/cathen/08013a.htm", 
     "number": "III", 
@@ -1595,6 +1788,7 @@
   {
     "end": "1227", 
     "name": "Honorius", 
+    "nicknames": [], 
     "title": "", 
     "url": "http://www.newadvent.org/cathen/07457a.htm", 
     "number": "III", 
@@ -1604,6 +1798,7 @@
   {
     "end": "1241", 
     "name": "Gregory", 
+    "nicknames": [], 
     "title": "", 
     "url": "http://www.newadvent.org/cathen/06796a.htm", 
     "number": "IX", 
@@ -1613,6 +1808,7 @@
   {
     "end": "1241", 
     "name": "Celestine", 
+    "nicknames": [], 
     "title": "", 
     "url": "http://www.newadvent.org/cathen/03479a.htm", 
     "number": "IV", 
@@ -1622,6 +1818,7 @@
   {
     "end": "1254", 
     "name": "Innocent", 
+    "nicknames": [], 
     "title": "", 
     "url": "http://www.newadvent.org/cathen/08017a.htm", 
     "number": "IV", 
@@ -1631,6 +1828,7 @@
   {
     "end": "1261", 
     "name": "Alexander", 
+    "nicknames": [], 
     "title": "", 
     "url": "http://www.newadvent.org/cathen/01287b.htm", 
     "number": "IV", 
@@ -1640,6 +1838,7 @@
   {
     "end": "1264", 
     "name": "Urban", 
+    "nicknames": [], 
     "title": "", 
     "url": "http://www.newadvent.org/cathen/15212a.htm", 
     "number": "IV", 
@@ -1649,6 +1848,7 @@
   {
     "end": "1268", 
     "name": "Clement", 
+    "nicknames": [], 
     "title": "", 
     "url": "http://www.newadvent.org/cathen/04019a.htm", 
     "number": "IV", 
@@ -1658,6 +1858,7 @@
   {
     "end": "1276", 
     "name": "Gregory", 
+    "nicknames": [], 
     "title": "Blessed", 
     "url": "http://www.newadvent.org/cathen/06798a.htm", 
     "number": "X", 
@@ -1667,6 +1868,7 @@
   {
     "end": "1276", 
     "name": "Innocent", 
+    "nicknames": [], 
     "title": "Blessed", 
     "url": "http://www.newadvent.org/cathen/08018a.htm", 
     "number": "V", 
@@ -1676,6 +1878,7 @@
   {
     "end": "1276", 
     "name": "Adrian", 
+    "nicknames": [], 
     "title": "", 
     "url": "http://www.newadvent.org/cathen/01159a.htm", 
     "number": "V", 
@@ -1685,6 +1888,7 @@
   {
     "end": "1277", 
     "name": "John", 
+    "nicknames": [], 
     "title": "", 
     "url": "http://www.newadvent.org/cathen/08429c.htm", 
     "number": "XXI", 
@@ -1694,6 +1898,7 @@
   {
     "end": "1280", 
     "name": "Nicholas", 
+    "nicknames": [], 
     "title": "", 
     "url": "http://www.newadvent.org/cathen/11056a.htm", 
     "number": "III", 
@@ -1703,6 +1908,7 @@
   {
     "end": "1285", 
     "name": "Martin", 
+    "nicknames": [], 
     "title": "", 
     "url": "http://www.newadvent.org/cathen/09724a.htm", 
     "number": "IV", 
@@ -1712,6 +1918,7 @@
   {
     "end": "1287", 
     "name": "Honorius", 
+    "nicknames": [], 
     "title": "", 
     "url": "http://www.newadvent.org/cathen/07459a.htm", 
     "number": "IV", 
@@ -1721,6 +1928,7 @@
   {
     "end": "1292", 
     "name": "Nicholas", 
+    "nicknames": [], 
     "title": "", 
     "url": "http://www.newadvent.org/cathen/11057a.htm", 
     "number": "IV", 
@@ -1730,6 +1938,7 @@
   {
     "end": "1294", 
     "name": "Celestine", 
+    "nicknames": [], 
     "title": "St.", 
     "url": "http://www.newadvent.org/cathen/03479b.htm", 
     "number": "V", 
@@ -1739,6 +1948,7 @@
   {
     "end": "1303", 
     "name": "Boniface", 
+    "nicknames": [], 
     "title": "", 
     "url": "http://www.newadvent.org/cathen/02662a.htm", 
     "number": "VIII", 
@@ -1748,6 +1958,7 @@
   {
     "end": "1304", 
     "name": "Benedict", 
+    "nicknames": [], 
     "title": "Blessed", 
     "url": "http://www.newadvent.org/cathen/02429c.htm", 
     "number": "XI", 
@@ -1757,6 +1968,7 @@
   {
     "end": "1314", 
     "name": "Clement", 
+    "nicknames": [], 
     "title": "", 
     "url": "http://www.newadvent.org/cathen/04020a.htm", 
     "number": "V", 
@@ -1766,6 +1978,7 @@
   {
     "end": "1334", 
     "name": "John", 
+    "nicknames": [], 
     "title": "", 
     "url": "http://www.newadvent.org/cathen/08431a.htm", 
     "number": "XXII", 
@@ -1775,6 +1988,7 @@
   {
     "end": "1342", 
     "name": "Benedict", 
+    "nicknames": [], 
     "title": "", 
     "url": "http://www.newadvent.org/cathen/02430a.htm", 
     "number": "XII", 
@@ -1784,6 +1998,7 @@
   {
     "end": "1352", 
     "name": "Clement", 
+    "nicknames": [], 
     "title": "", 
     "url": "http://www.newadvent.org/cathen/04023a.htm", 
     "number": "VI", 
@@ -1793,6 +2008,7 @@
   {
     "end": "1362", 
     "name": "Innocent", 
+    "nicknames": [], 
     "title": "", 
     "url": "http://www.newadvent.org/cathen/08018b.htm", 
     "number": "VI", 
@@ -1802,6 +2018,7 @@
   {
     "end": "1370", 
     "name": "Urban", 
+    "nicknames": [], 
     "title": "Blessed", 
     "url": "http://www.newadvent.org/cathen/15214a.htm", 
     "number": "V", 
@@ -1811,6 +2028,7 @@
   {
     "end": "1378", 
     "name": "Gregory", 
+    "nicknames": [], 
     "title": "", 
     "url": "http://www.newadvent.org/cathen/06799a.htm", 
     "number": "XI", 
@@ -1820,6 +2038,7 @@
   {
     "end": "1389", 
     "name": "Urban", 
+    "nicknames": [], 
     "title": "", 
     "url": "http://www.newadvent.org/cathen/15216a.htm", 
     "number": "VI", 
@@ -1829,6 +2048,7 @@
   {
     "end": "1404", 
     "name": "Boniface", 
+    "nicknames": [], 
     "title": "", 
     "url": "http://www.newadvent.org/cathen/02670a.htm", 
     "number": "IX", 
@@ -1838,6 +2058,7 @@
   {
     "end": "1406", 
     "name": "Innocent", 
+    "nicknames": [], 
     "title": "", 
     "url": "http://www.newadvent.org/cathen/08019a.htm", 
     "number": "VII", 
@@ -1847,6 +2068,7 @@
   {
     "end": "1415", 
     "name": "Gregory", 
+    "nicknames": [], 
     "title": "", 
     "url": "http://www.newadvent.org/cathen/07001a.htm", 
     "number": "XII", 
@@ -1856,6 +2078,7 @@
   {
     "end": "1431", 
     "name": "Martin", 
+    "nicknames": [], 
     "title": "", 
     "url": "http://www.newadvent.org/cathen/09725a.htm", 
     "number": "V", 
@@ -1865,6 +2088,7 @@
   {
     "end": "1447", 
     "name": "Eugene", 
+    "nicknames": [], 
     "title": "", 
     "url": "http://www.newadvent.org/cathen/05601a.htm", 
     "number": "IV", 
@@ -1874,6 +2098,7 @@
   {
     "end": "1455", 
     "name": "Nicholas", 
+    "nicknames": [], 
     "title": "", 
     "url": "http://www.newadvent.org/cathen/11058a.htm", 
     "number": "V", 
@@ -1883,6 +2108,7 @@
   {
     "end": "1458", 
     "name": "Callistus", 
+    "nicknames": [], 
     "title": "", 
     "url": "http://www.newadvent.org/cathen/03187a.htm", 
     "number": "III", 
@@ -1892,6 +2118,7 @@
   {
     "end": "1464", 
     "name": "Pius", 
+    "nicknames": [], 
     "title": "", 
     "url": "http://www.newadvent.org/cathen/12126c.htm", 
     "number": "II", 
@@ -1901,6 +2128,7 @@
   {
     "end": "1471", 
     "name": "Paul", 
+    "nicknames": [], 
     "title": "", 
     "url": "http://www.newadvent.org/cathen/11578a.htm", 
     "number": "II", 
@@ -1910,6 +2138,7 @@
   {
     "end": "1484", 
     "name": "Sixtus", 
+    "nicknames": [], 
     "title": "", 
     "url": "http://www.newadvent.org/cathen/14032b.htm", 
     "number": "IV", 
@@ -1919,6 +2148,7 @@
   {
     "end": "1492", 
     "name": "Innocent", 
+    "nicknames": [], 
     "title": "", 
     "url": "http://www.newadvent.org/cathen/08019b.htm", 
     "number": "VIII", 
@@ -1928,6 +2158,7 @@
   {
     "end": "1503", 
     "name": "Alexander", 
+    "nicknames": [], 
     "title": "", 
     "url": "http://www.newadvent.org/cathen/01289a.htm", 
     "number": "VI", 
@@ -1937,6 +2168,7 @@
   {
     "end": "1503", 
     "name": "Pius", 
+    "nicknames": [], 
     "title": "", 
     "url": "http://www.newadvent.org/cathen/12128a.htm", 
     "number": "III", 
@@ -1946,6 +2178,7 @@
   {
     "end": "1513", 
     "name": "Julius", 
+    "nicknames": [], 
     "title": "", 
     "url": "http://www.newadvent.org/cathen/08562a.htm", 
     "number": "II", 
@@ -1955,6 +2188,7 @@
   {
     "end": "1521", 
     "name": "Leo", 
+    "nicknames": [], 
     "title": "", 
     "url": "http://www.newadvent.org/cathen/09162a.htm", 
     "number": "X", 
@@ -1964,6 +2198,7 @@
   {
     "end": "1523", 
     "name": "Adrian", 
+    "nicknames": [], 
     "title": "", 
     "url": "http://www.newadvent.org/cathen/01159b.htm", 
     "number": "VI", 
@@ -1973,6 +2208,7 @@
   {
     "end": "1534", 
     "name": "Clement", 
+    "nicknames": [], 
     "title": "", 
     "url": "http://www.newadvent.org/cathen/04024a.htm", 
     "number": "VII", 
@@ -1982,6 +2218,7 @@
   {
     "end": "1549", 
     "name": "Paul", 
+    "nicknames": [], 
     "title": "", 
     "url": "http://www.newadvent.org/cathen/11579a.htm", 
     "number": "III", 
@@ -1991,6 +2228,7 @@
   {
     "end": "1555", 
     "name": "Julius", 
+    "nicknames": [], 
     "title": "", 
     "url": "http://www.newadvent.org/cathen/08564a.htm", 
     "number": "III", 
@@ -2000,6 +2238,7 @@
   {
     "end": "1555", 
     "name": "Marcellus", 
+    "nicknames": [], 
     "title": "", 
     "url": "http://www.newadvent.org/cathen/09641a.htm", 
     "number": "II", 
@@ -2009,6 +2248,7 @@
   {
     "end": "1559", 
     "name": "Paul", 
+    "nicknames": [], 
     "title": "", 
     "url": "http://www.newadvent.org/cathen/11581a.htm", 
     "number": "IV", 
@@ -2018,6 +2258,7 @@
   {
     "end": "1565", 
     "name": "Pius", 
+    "nicknames": [], 
     "title": "", 
     "url": "http://www.newadvent.org/cathen/12129a.htm", 
     "number": "IV", 
@@ -2027,6 +2268,7 @@
   {
     "end": "1572", 
     "name": "Pius", 
+    "nicknames": [], 
     "title": "St.", 
     "url": "http://www.newadvent.org/cathen/12130a.htm", 
     "number": "V", 
@@ -2036,6 +2278,7 @@
   {
     "end": "1585", 
     "name": "Gregory", 
+    "nicknames": [], 
     "title": "", 
     "url": "http://www.newadvent.org/cathen/07001b.htm", 
     "number": "XIII", 
@@ -2045,6 +2288,7 @@
   {
     "end": "1590", 
     "name": "Sixtus", 
+    "nicknames": [], 
     "title": "", 
     "url": "http://www.newadvent.org/cathen/14033a.htm", 
     "number": "V", 
@@ -2054,6 +2298,7 @@
   {
     "end": "1590", 
     "name": "Urban", 
+    "nicknames": [], 
     "title": "", 
     "url": "http://www.newadvent.org/cathen/15218a.htm", 
     "number": "VII", 
@@ -2063,6 +2308,7 @@
   {
     "end": "1591", 
     "name": "Gregory", 
+    "nicknames": [], 
     "title": "", 
     "url": "http://www.newadvent.org/cathen/07004a.htm", 
     "number": "XIV", 
@@ -2072,6 +2318,7 @@
   {
     "end": "1591", 
     "name": "Innocent", 
+    "nicknames": [], 
     "title": "", 
     "url": "http://www.newadvent.org/cathen/08020a.htm", 
     "number": "IX", 
@@ -2081,6 +2328,7 @@
   {
     "end": "1605", 
     "name": "Clement", 
+    "nicknames": [], 
     "title": "", 
     "url": "http://www.newadvent.org/cathen/04027a.htm", 
     "number": "VIII", 
@@ -2090,6 +2338,7 @@
   {
     "end": "1605", 
     "name": "Leo", 
+    "nicknames": [], 
     "title": "", 
     "url": "http://www.newadvent.org/cathen/09166a.htm", 
     "number": "XI", 
@@ -2099,6 +2348,7 @@
   {
     "end": "1621", 
     "name": "Paul", 
+    "nicknames": [], 
     "title": "", 
     "url": "http://www.newadvent.org/cathen/11581b.htm", 
     "number": "V", 
@@ -2108,6 +2358,7 @@
   {
     "end": "1623", 
     "name": "Gregory", 
+    "nicknames": [], 
     "title": "", 
     "url": "http://www.newadvent.org/cathen/07004b.htm", 
     "number": "XV", 
@@ -2117,6 +2368,7 @@
   {
     "end": "1644", 
     "name": "Urban", 
+    "nicknames": [], 
     "title": "", 
     "url": "http://www.newadvent.org/cathen/15218b.htm", 
     "number": "VIII", 
@@ -2126,6 +2378,7 @@
   {
     "end": "1655", 
     "name": "Innocent", 
+    "nicknames": [], 
     "title": "", 
     "url": "http://www.newadvent.org/cathen/08020b.htm", 
     "number": "X", 
@@ -2135,6 +2388,7 @@
   {
     "end": "1667", 
     "name": "Alexander", 
+    "nicknames": [], 
     "title": "", 
     "url": "http://www.newadvent.org/cathen/01294a.htm", 
     "number": "VII", 
@@ -2144,6 +2398,7 @@
   {
     "end": "1669", 
     "name": "Clement", 
+    "nicknames": [], 
     "title": "", 
     "url": "http://www.newadvent.org/cathen/04028a.htm", 
     "number": "IX", 
@@ -2153,6 +2408,7 @@
   {
     "end": "1676", 
     "name": "Clement", 
+    "nicknames": [], 
     "title": "", 
     "url": "http://www.newadvent.org/cathen/04028b.htm", 
     "number": "X", 
@@ -2162,6 +2418,7 @@
   {
     "end": "1689", 
     "name": "Innocent", 
+    "nicknames": [], 
     "title": "Blessed", 
     "url": "http://www.newadvent.org/cathen/08021a.htm", 
     "number": "XI", 
@@ -2171,6 +2428,7 @@
   {
     "end": "1691", 
     "name": "Alexander", 
+    "nicknames": [], 
     "title": "", 
     "url": "http://www.newadvent.org/cathen/01295a.htm", 
     "number": "VIII", 
@@ -2180,6 +2438,7 @@
   {
     "end": "1700", 
     "name": "Innocent", 
+    "nicknames": [], 
     "title": "", 
     "url": "http://www.newadvent.org/cathen/08022a.htm", 
     "number": "XII", 
@@ -2189,6 +2448,7 @@
   {
     "end": "1721", 
     "name": "Clement", 
+    "nicknames": [], 
     "title": "", 
     "url": "http://www.newadvent.org/cathen/04029a.htm", 
     "number": "XI", 
@@ -2198,6 +2458,7 @@
   {
     "end": "1724", 
     "name": "Innocent", 
+    "nicknames": [], 
     "title": "", 
     "url": "http://www.newadvent.org/cathen/08023a.htm", 
     "number": "XIII", 
@@ -2207,6 +2468,7 @@
   {
     "end": "1730", 
     "name": "Benedict", 
+    "nicknames": [], 
     "title": "", 
     "url": "http://www.newadvent.org/cathen/02431a.htm", 
     "number": "XIII", 
@@ -2216,6 +2478,7 @@
   {
     "end": "1740", 
     "name": "Clement", 
+    "nicknames": [], 
     "title": "", 
     "url": "http://www.newadvent.org/cathen/04030a.htm", 
     "number": "XII", 
@@ -2225,6 +2488,7 @@
   {
     "end": "1758", 
     "name": "Benedict", 
+    "nicknames": [], 
     "title": "", 
     "url": "http://www.newadvent.org/cathen/02432a.htm", 
     "number": "XIV", 
@@ -2234,6 +2498,7 @@
   {
     "end": "1769", 
     "name": "Clement", 
+    "nicknames": [], 
     "title": "", 
     "url": "http://www.newadvent.org/cathen/04032a.htm", 
     "number": "XIII", 
@@ -2243,6 +2508,7 @@
   {
     "end": "1774", 
     "name": "Clement", 
+    "nicknames": [], 
     "title": "", 
     "url": "http://www.newadvent.org/cathen/04034a.htm", 
     "number": "XIV", 
@@ -2252,6 +2518,7 @@
   {
     "end": "1799", 
     "name": "Pius", 
+    "nicknames": [], 
     "title": "", 
     "url": "http://www.newadvent.org/cathen/12131a.htm", 
     "number": "VI", 
@@ -2261,6 +2528,7 @@
   {
     "end": "1823", 
     "name": "Pius", 
+    "nicknames": [], 
     "title": "", 
     "url": "http://www.newadvent.org/cathen/12132a.htm", 
     "number": "VII", 
@@ -2270,6 +2538,7 @@
   {
     "end": "1829", 
     "name": "Leo", 
+    "nicknames": [], 
     "title": "", 
     "url": "http://www.newadvent.org/cathen/09167a.htm", 
     "number": "XII", 
@@ -2279,6 +2548,7 @@
   {
     "end": "1830", 
     "name": "Pius", 
+    "nicknames": [], 
     "title": "", 
     "url": "http://www.newadvent.org/cathen/12134a.htm", 
     "number": "VIII", 
@@ -2288,6 +2558,7 @@
   {
     "end": "1846", 
     "name": "Gregory", 
+    "nicknames": [], 
     "title": "", 
     "url": "http://www.newadvent.org/cathen/07006a.htm", 
     "number": "XVI", 
@@ -2297,6 +2568,7 @@
   {
     "end": "1878", 
     "name": "Pius", 
+    "nicknames": [], 
     "title": "Blessed", 
     "url": "http://www.newadvent.org/cathen/12134b.htm", 
     "number": "IX", 
@@ -2306,6 +2578,7 @@
   {
     "end": "1903", 
     "name": "Leo", 
+    "nicknames": [], 
     "title": "", 
     "url": "http://www.newadvent.org/cathen/09169a.htm", 
     "number": "XIII", 
@@ -2315,6 +2588,7 @@
   {
     "end": "1914", 
     "name": "Pius", 
+    "nicknames": [], 
     "title": "St.", 
     "url": "http://www.newadvent.org/cathen/12137a.htm", 
     "number": "X", 
@@ -2324,6 +2598,7 @@
   {
     "end": "1922", 
     "name": "Benedict", 
+    "nicknames": [], 
     "title": "", 
     "url": null, 
     "number": "XV", 
@@ -2333,6 +2608,7 @@
   {
     "end": "1939", 
     "name": "Pius", 
+    "nicknames": [], 
     "title": "", 
     "url": null, 
     "number": "XI", 
@@ -2342,6 +2618,7 @@
   {
     "end": "1958", 
     "name": "Pius", 
+    "nicknames": [], 
     "title": "", 
     "url": null, 
     "number": "XII", 
@@ -2351,6 +2628,7 @@
   {
     "end": "1963", 
     "name": "John", 
+    "nicknames": [], 
     "title": "Blessed", 
     "url": null, 
     "number": "XXIII", 
@@ -2360,6 +2638,7 @@
   {
     "end": "1978", 
     "name": "Paul", 
+    "nicknames": [], 
     "title": "", 
     "url": null, 
     "number": "VI", 
@@ -2369,6 +2648,7 @@
   {
     "end": "1978", 
     "name": "John Paul", 
+    "nicknames": [], 
     "title": "", 
     "url": null, 
     "number": "I", 
@@ -2378,6 +2658,7 @@
   {
     "end": "2005", 
     "name": "John Paul", 
+    "nicknames": [], 
     "title": "Blessed", 
     "url": null, 
     "number": "II", 
@@ -2387,6 +2668,7 @@
   {
     "end": "2013", 
     "name": "Benedict", 
+    "nicknames": [], 
     "title": "", 
     "url": null, 
     "number": "XVI", 
