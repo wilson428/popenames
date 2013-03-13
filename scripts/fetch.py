@@ -40,17 +40,20 @@ for pope in roster:
             "url": None
         }
     data["start"] = re.findall("\((\d+)", pope.xpath("text()")[0])[0]
-    data["end"] = re.findall("(\d+)\)", pope.xpath("text()")[0])[0]
+    try:
+        data["end"] = re.findall("(\d+)\)", pope.xpath("text()")[0])[0]
+    except IndexError, e:
+        data["end"] = None
     data["nicknames"] = re.findall(" \((.*?)\)", data["fullname"])
     moniker = re.findall("^(Blessed|[A-z]+\. )*(.*?)([IXV]*)$", re.sub(" \((.*?)\)", "", data["fullname"]))[0]
     data["title"],data["name"],data["number"] = [x.strip() for x in moniker]
     data["decimal"] = roman2arabic(data["number"])
 
     #456-75 -> 456-475
-    if len(data["end"]) == 2:            
+    if data["end"] and len(data["end"]) == 2:            
         data["end"] = data["start"][:-2] + data["end"]
     data["start"] = int(data["start"])
-    data["end"] = int(data["end"])
+    data["end"] = None if not data["end"] else int(data["end"])
     
     popes.append(data)        
 write(json.dumps(popes, indent=2), "popes.json")
