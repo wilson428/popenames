@@ -21,8 +21,9 @@ for pope in roster:
             "url": None
         }
     data["start"] = re.findall("\((\d+)", pope.xpath("text()")[0])[0]
-    data["end"] = re.findall("(\d+)\)", pope.xpath("text()")[0])[0]            
-    moniker = re.findall("^(Blessed|[A-z]+\. )*(.*?)([IXV]*)$", data["fullname"])[0]
+    data["end"] = re.findall("(\d+)\)", pope.xpath("text()")[0])[0]
+    data["nicknames"] = re.findall(" \((.*?)\)", data["fullname"])
+    moniker = re.findall("^(Blessed|[A-z]+\. )*(.*?)([IXV]*)$", re.sub(" \((.*?)\)", "", data["fullname"]))[0]
     data["title"],data["name"],data["number"] = [x.strip() for x in moniker]
 
     #456-75 -> 456-475
